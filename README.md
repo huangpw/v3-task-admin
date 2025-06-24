@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="logo" width="120" height="120" src="./src/common/assets/images/layouts/logo.png">
-  <h1>V3 Admin Vite</h1>
+  <h1>V3 Task admin</h1>
 </div>
 
 [![github release](https://img.shields.io/github/v/release/un-pany/v3-admin-vite?style=flat)](https://github.com/un-pany/v3-admin-vite/releases)
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-V3 Admin Vite is a well-crafted backend management system template, built with popular technologies such as Vue3, Vite, TypeScript, and Element Plus
+V3 Task admin is a well-crafted task backend management system template, built with popular technologies such as Vue3, Vite, TypeScript, and Element Plus
 
 ## Notifications
 

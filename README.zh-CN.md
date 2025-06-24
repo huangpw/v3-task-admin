@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="logo" width="120" height="120" src="./src/common/assets/images/layouts/logo.png">
-  <h1>V3 Admin Vite</h1>
+  <h1>V3 Task admin</h1>
 </div>
 
 [![github release](https://img.shields.io/github/v/release/un-pany/v3-admin-vite?style=flat)](https://github.com/un-pany/v3-admin-vite/releases)
@@ -11,7 +11,7 @@
 
 ## 简介
 
-V3 Admin Vite 是一个精心制作的后台管理系统模板，基于 Vue3、Vite、TypeScript、Element Plus 等主流技术
+V3 Task admin 是一个精心制作的任务后台管理系统模板，基于 Vue3、Vite、TypeScript、Element Plus 等主流技术
 
 ## 通知
 
